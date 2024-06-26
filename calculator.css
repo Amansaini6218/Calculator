@@ -1,0 +1,31 @@
+#calculator {
+  border: 1px color: #555843;
+  border-radius: 5px;
+  background-color: #22668D;
+  width: 290px;
+  height: 390px;
+}
+#cal_display {
+  background-color:#FFFADD;
+  margin: 10px;
+  width: 90%;
+  height: 11%;
+  font-size: 45px;
+  
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.button {
+  font-family: fantasy;
+  color:black;
+  font-style: italic;
+  border-color:#D0E7D2;
+  background-color: #FFFADD;
+  border-radius: 30px;
+  width: 65px;
+  height: 57px;
+  margin: 3px;
+}
